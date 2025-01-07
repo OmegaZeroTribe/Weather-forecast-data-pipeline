@@ -1,4 +1,3 @@
 # Weather-forecast-data-pipeline
-Write a Python script to run an ETL process for ingesting data from a weather forecast API into MongoDB.
-_________________________________________________________________________________________________________
+This project explores using Python to retrieve data from a web API, transform it with the Pandas library to prepare it for use, and ingest the data into a NoSQL database (MongoDB)._________________________________________________________________________________________________________
 ![alt text](https://github.com/OmegaZeroTribe/Weather-forecast-data-pipeline/blob/main/ETL_flow.png)
